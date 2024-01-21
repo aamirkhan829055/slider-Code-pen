@@ -1,0 +1,20 @@
+*{
+    padding: 0px ;
+    margin: 0px ;
+  box-sizing:border-box ;
+}
+
+.abhut{
+  background-color: aqua !important;
+
+}
+
+.mnuebar-1 a{
+  color: red;
+  background-color: blue;
+}
+
+.mnuebar-2 a{
+  color: red;
+  background-color: blue;
+}
